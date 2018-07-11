@@ -15,7 +15,7 @@ public class helper {
         
     }
     
-    public func test() {
+    public func test(primo: String) {
         
     }
     
